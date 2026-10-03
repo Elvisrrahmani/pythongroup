@@ -29,3 +29,13 @@ for num in numbers:
         maximum = num
 print("the maximum value in the list is",maximum)
 
+######################################################
+
+numbers = [12,45,6,72,21,8,94,57]
+
+maximum = numbers[0]
+
+for num in numbers:
+    if num < maximum:
+        maximum = num
+print("the minimum value in the list is",maximum)
