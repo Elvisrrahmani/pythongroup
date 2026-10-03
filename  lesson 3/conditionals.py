@@ -17,7 +17,6 @@ else:
     print("It's a cold day, bundle up")
 
 # Create a program that checks if a number is even or odd
-
 number = 7
 
 if number % 2 == 0:
