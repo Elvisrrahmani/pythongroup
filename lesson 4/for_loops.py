@@ -39,3 +39,5 @@ for num in numbers:
     if num < maximum:
         maximum = num
 print("the minimum value in the list is",maximum)
+
+
